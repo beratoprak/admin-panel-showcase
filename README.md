@@ -37,9 +37,7 @@ Bu repoda yer alan demo kodlar, gerçek admin panelde kullanılan yapıların
 - Fake (dummy) data kullanılmıştır  
 - Private servisler ve backend bağlantıları çıkarılmıştır  
 - Amaç, **mimari yaklaşımı ve ekran mantığını** göstermektir  
-
-Demo dosyalar:
-
+Örnek kategori yönetimi ekranı: `demo/CategoriesPage.tsx` 
 
 ## Screenshots
 
